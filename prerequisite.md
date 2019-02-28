@@ -4,7 +4,7 @@ This section explain what to do right after plugged in your zerobox.
 
 ## Setup a safe browser on your device
 
-On Your computer, tablet or phone, we recommend to install [Firefox browser](https://www.mozilla.org/en-US/firefox/) to browse ZeroNet with.
+On your computer, tablet or phone, we recommend to install [Firefox browser](https://www.mozilla.org/en-US/firefox/) to browse ZeroNet with.
 
 ## Access Cockpit
 
@@ -36,8 +36,12 @@ The Zeronet section shows :
 
 #### Start and Stop Zeronet
 
-From
+In this module, it is possible to stop and start Zeronet by clicking on the "stop" button (showing when Zeronet is running) or the "start" button.
 
 #### Copy Zeronet
 
+Your Zeronet datas can be copied to another device. It will allow you then to backup your datas or even start Zeronet from an external device.
+
 #### Start from external device
+
+An external device can be plugged to the box and start Zeronet from it. Running Zeronet from an external drive will offer a better experience than running it directly from the box.
