@@ -1,18 +1,17 @@
-# Zeronet
 
 You are now ready to access Zeronet.
 
-## Accessing Zeronet
+# Accessing Zeronet
 
 To access Zeronet you can access it at this address **zerobox/** (assuming you chose zerobox as the name of your box). It will give you access to Zeronet welcome page.
 
 ![Zeronet welcome](./img/zeronet-welcome.png)
 
-## Welcome page feature
+# Welcome page feature
 
 This is Zeronet homepage, zeronet will open on it by default.
 
-### Sites bar
+## Sites bar
 
 On the left side you have a bar. It shows the sites that you have already downloaded (by default it comes with ZeroHello and ZeroName sites).
 
@@ -20,7 +19,7 @@ On the left side you have a bar. It shows the sites that you have already downlo
 
 In the **More Sites** section, you can find demo sites that you can visit.
 
-#### Sites downloaded
+### Sites downloaded
 
 ![Zeronet Downloaded](./img/zeronet-downloaded.png)
 
@@ -29,7 +28,7 @@ Next to the name, you have information on the site : numbers of peers (e.g 102) 
 When Zeronet is currently updating a site you can follow its progress next to the name too.
 
 
-#### Site Menu
+### Site Menu
 
 ![Zeronet Menu Site](./img/zeronet-menu-site.png)
 
@@ -42,11 +41,11 @@ You will also find a site menu that gives you access to the following actions :
 * **Clone** - Clone this specific website (allow you to create your own version of it)
 * **Delete** - Delete the website
 
-#### Favorites sites
+### Favorites sites
 
 A list of bookmark site which will show at the top of the menu.
 
-#### ZeroHello menu
+### ZeroHello menu
 
 ![Zeronet Hello Menu](./img/zeronet-hello-menu.png)
 
@@ -63,7 +62,7 @@ This menu on ZeroHello page gives you access to some specific Zeronet functional
 * **Version 0.6.5 (rev3840): Up to date!** - Update button
 * **Shut down ZeroNet** - Will shutdown Zeronet
 
-#### Files
+### Files
 
 ![Zeronet Files](./img/zeronet-files.png)
 
@@ -98,10 +97,10 @@ The others sections are dedicated to each sites you have visited. It gives you i
 
 Next to the name you also have a score indicating how much you downloaded vs uploaded. It gives an idea of your participation to the network.
 
-#### Stats
+### Stats
 
 
-### Tor
+## Tor
 
 Zerobox has Tor already installed and start by default with it activated. You can verify that it is working if you see on the welcome page "TOR: Always".
 

@@ -1,3 +1,1 @@
-# Appendix
-
 Tor, CJDNS, trackers....
