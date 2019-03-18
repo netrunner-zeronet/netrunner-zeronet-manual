@@ -33,6 +33,7 @@ When Zeronet is currently updating a site you can follow its progress next to th
 ![Zeronet Menu Site](./img/zeronet-menu-site.png)
 
 You will also find a site menu that gives you access to the following actions :
+
 * **Favorite/Unfavorite** - Quickly find your favorite sites or remove from your favorite
 * **Update** - Look for update for the site
 * **Check files** - Look at the files for this site and verify possible corrupted files

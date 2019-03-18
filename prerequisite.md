@@ -1,5 +1,3 @@
-This section explain what to do right after plugged in your zerobox.
-
 # Setup a safe browser on your device
 
 On your computer, tablet or phone, we recommend to install [Firefox browser](https://www.mozilla.org/en-US/firefox/) to browse ZeroNet with.

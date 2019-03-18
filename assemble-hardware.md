@@ -1,11 +1,11 @@
 # List of material
 
 To start the box you need the following parts :
-- Case
-- C1 computer
-- SSD card
-- Power cable
-- Ethernet cable
+* Case
+* C1 computer
+* SSD card
+* Power cable
+* Ethernet cable
 
 # Assemble
 
