@@ -1,7 +1,7 @@
 mkdir dist
 
 # First generate the manual general toc
-pandoc maunal/manual.md -s -o dist/manual.html --template=templates/left-toc.html
+pandoc manual/manual.md -s -o dist/manual.html --template=templates/left-toc.html
 
 for file in manual/*; do
     if [ -f $file ]
@@ -15,5 +15,5 @@ for file in manual/*; do
 done
 
 cp manifest.json dist/manifest.json
-cp -r manual/img/ dist/img/
+cp -r img/ dist/img/
 cp -r assets/ dist/assets/
